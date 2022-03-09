@@ -9,3 +9,6 @@ Please practice the commands after theory..
   
   I am updating the code here
 >>>>>>> d593b17fe36cccd857ba3a5d294e906f1733bc46
+
+
+This line is updated by oter developer in remote repo
